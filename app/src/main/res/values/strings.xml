@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Maps App From Scratch</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="museum_name">Museum name</string>
+    <string name="museum_address">Museum Address</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
